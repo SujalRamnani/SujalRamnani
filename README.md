@@ -1,9 +1,8 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:7B2FF7&height=220&section=header&text=Sujal%20Ramnani&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Engineer%20|%20Full-Stack%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:7B2FF7&height=250&section=header&text=SUJAL%20RAMNANI&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=7B2FF7&center=true&vCenter=true&width=750&lines=Turning+Ideas+into+AI-Powered+Products+%F0%9F%A4%96;Full-Stack+%7C+MERN+%7C+Machine+Learning;500%2B+DSA+Problems+Solved+%F0%9F%92%AA;Building+InterviewIQ.AI+%26+Beyond+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Products+From+Scratch+%F0%9F%A4%96;Full-Stack+MERN+Developer+%7C+ML+Engineer;500%2B+DSA+Problems+%7C+Contest+Ranked+%F0%9F%8F%86;Currently+Shipping%3A+InterviewIQ.AI+%F0%9F%9A%80;Turning+Coffee+Into+Code+%E2%98%95%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG"/>
 
 <br/>
 
@@ -13,156 +12,164 @@
 <a href="https://leetcode.com" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://geeksforgeeks.org" target="_blank"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
 
-<img src="https://komarev.com/ghpvc/?username=SujalRamnani&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS" alt="Profile Views"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/🟢_OPEN_TO_WORK-success?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=SujalRamnani&style=for-the-badge&color=7B2FF7&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/badge/DSA_Solved-500+-orange?style=for-the-badge"/>
 
 </div>
 
 <br/>
 
-## 🧬 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"/>
 
-```python
-class Sujal:
-    def __init__(self):
-        self.name = "Sujal Ramnani"
-        self.role = "AI/ML Engineer & Full-Stack Developer"
-        self.education = "B.E. AI & ML @ BNMIT, Bengaluru (CGPA: 8.19/10.0)"
-        self.current_job = "SDE Intern @ ITJOBXS"
-        self.dsa_solved = "500+"
-        self.currently_building = "InterviewIQ.AI 🤖"
-        self.fun_fact = "I debug faster than I sleep 😅"
+## 🧬 whoami
 
-    def say_hi(self):
-        print("Thanks for visiting my profile — let's build something awesome!")
+<table>
+<tr>
+<td width="55%" valign="top">
 
-me = Sujal()
-me.say_hi()
+```yaml
+sujal_ramnani:
+  location: Bengaluru, India
+  role: AI/ML Engineer & Full-Stack Developer
+  education: B.E. AI & ML @ BNMIT (CGPA 8.19/10.0)
+  current_gig: SDE Intern @ ITJOBXS
+  building_now: InterviewIQ.AI 🤖
+  obsessions:
+    - Machine Learning & NLP
+    - Building end-to-end AI products
+    - Competitive Programming
+  streaks: [50-day 🔥, 100-day 🔥🔥, 200-day 🔥🔥🔥]
+  status: "compiling ambition into code"
 ```
 
-- 🎓 Currently pursuing **B.E. in Artificial Intelligence & Machine Learning** at BNMIT, Bengaluru
-- 💼 Working as an **SDE Intern @ ITJOBXS**, shipping real production features
-- 🧠 Deep interest in **NLP, Recommendation Systems, and building AI-first products**
-- 🏆 Solved **500+ DSA problems** across LeetCode & GeeksforGeeks, with 50/100/200-day streaks
-- 📊 Completed the **LeetCode SQL 50** Study Plan
-- ⚡ Fun fact: I once spent 3 hours debugging a bug that turned out to be a missing semicolon 😂
+</td>
+<td width="45%" valign="top">
 
-<br/>
+- 🎓 **B.E. in AI & ML** @ BNMIT, Bengaluru
+- 💼 **SDE Intern @ ITJOBXS** — shipping real features in production
+- 🧠 Building **InterviewIQ.AI**, a full-stack AI mock-interview platform
+- 🏆 **500+ DSA problems** solved (LeetCode + GFG)
+- 📊 Completed **LeetCode SQL 50** Study Plan
+- ⚡ Global-ranked in multiple LeetCode contests among 36,000+ coders
+- 🌱 Leveling up in NLP, Recommendation Systems & System Design
 
-## 🛠️ Tech Arsenal
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"/>
+
+## ⚙️ Tech Arsenal
 
 <div align="center">
 
-### Languages
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,render,firebase&theme=dark&perline=8"/>
 
-### Web Development
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<br/><br/>
 
-### Databases
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-### Machine Learning & NLP
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TextBlob-yellow?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/TextBlob-FFD43B?style=for-the-badge&logo=python&logoColor=black"/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-
-### Tools & Platforms
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
 
 </div>
 
-<br/>
+### 📡 Currently Leveling Up
 
-## 🚀 Featured Projects
+```
+NLP & Transformers        ████████████████░░░░  80%
+System Design             █████████████░░░░░░░  65%
+Advanced DSA (Graphs/DP)  ██████████████████░░  90%
+Cloud Deployment          ███████████░░░░░░░░░  55%
+```
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"/>
+
+## 🚀 Flagship Builds
 
 <div align="center">
-
-<a href="https://github.com/SujalRamnani/InterviewIQ.AI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujalRamnani&repo=InterviewIQ.AI&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SujalRamnani">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujalRamnani&repo=Movie-Recommender-System&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/SujalRamnani">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SujalRamnani&repo=WhatsApp-Chat-Analyzer&theme=tokyonight&hide_border=true" />
-</a>
-
+<a href="https://github.com/SujalRamnani/InterviewIQ.AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SujalRamnani&repo=InterviewIQ.AI&theme=radical&hide_border=true"/></a>
+<a href="https://github.com/SujalRamnani"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SujalRamnani&repo=Movie-Recommender-System&theme=radical&hide_border=true"/></a>
+<a href="https://github.com/SujalRamnani"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SujalRamnani&repo=WhatsApp-Chat-Analyzer&theme=radical&hide_border=true"/></a>
 </div>
 
-<details>
-<summary><b>🤖 InterviewIQ.AI — AI Mock Interview Platform</b> (click to expand)</summary>
+<details open>
+<summary><b>🤖 InterviewIQ.AI — AI-Powered Mock Interview Platform</b></summary>
 <br/>
 
-> Full-stack AI-powered mock interview platform with secure Google authentication, REST APIs for interview management, and Razorpay-integrated premium subscriptions. Deployed on Render with MongoDB.
+> A full-stack AI mock-interview platform with secure Google authentication, REST APIs for interview management, and Razorpay-powered premium subscriptions. Deployed on Render with MongoDB as the backing store.
 
-**Tech Stack:** React.js · Node.js · Express.js · MongoDB · Firebase Auth · JWT · Razorpay
+`React.js` `Node.js` `Express.js` `MongoDB` `Firebase Auth` `JWT` `Razorpay`
 
 </details>
 
 <details>
-<summary><b>🎬 AI-Powered Movie Recommender System</b> (click to expand)</summary>
+<summary><b>🎬 AI-Powered Movie Recommender System</b></summary>
 <br/>
 
-> Content-based recommendation engine for 4800+ movies using NLP & ML. Uses CountVectorizer and Cosine Similarity to generate Top-5 personalized recommendations, with OMDb API integration for posters, trailers, favorites, and recently-searched history.
+> Content-based recommendation engine covering 4800+ movies, powered by NLP & ML. Uses CountVectorizer + Cosine Similarity for Top-5 personalized picks, with OMDb API integration for posters, trailers, favorites, and search history.
 
-**Tech Stack:** Python · Pandas · NumPy · Scikit-Learn · NLTK · Streamlit · OMDb API
+`Python` `Pandas` `NumPy` `Scikit-Learn` `NLTK` `Streamlit` `OMDb API`
 
 </details>
 
 <details>
-<summary><b>💬 WhatsApp Chat Analyzer</b> (click to expand)</summary>
+<summary><b>💬 WhatsApp Chat Analyzer</b></summary>
 <br/>
 
-> Analyzes exported WhatsApp chats with Sentiment Analysis, Emoji Analysis, Word Clouds, and User Activity Analytics — including Monthly/Daily Timelines, Activity Heatmaps, Media Stats, and Link Sharing Analysis.
+> Processes exported WhatsApp chats into rich analytics — Sentiment Analysis, Emoji Breakdown, Word Clouds, Activity Heatmaps, Monthly/Daily Timelines, and Media/Link statistics.
 
-**Tech Stack:** Python · Pandas · Streamlit · Regex · Matplotlib · Seaborn · WordCloud · TextBlob
+`Python` `Pandas` `Streamlit` `Regex` `Matplotlib` `Seaborn` `WordCloud` `TextBlob`
 
 </details>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"/>
 
-## 📊 GitHub Analytics
+## 📊 The Numbers Behind the Code
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SujalRamnani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalRamnani&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SujalRamnani&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalRamnani&layout=compact&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SujalRamnani&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SujalRamnani&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SujalRamnani&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SujalRamnani&theme=react-dark&hide_border=true&area=true"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SujalRamnani&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=SujalRamnani&theme=radical&no-frame=true&row=1&column=6"/>
 </div>
 
-<!-- Contribution snake — add the "platane/snk" GitHub Action to your repo to auto-generate this -->
+### 🐍 Contribution Snake
+
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </div>
 
-<br/>
+> ⚙️ *To activate the snake animation on your own profile, add the `platane/snk` GitHub Action to this repo — say the word and I'll generate the workflow file for you.*
+
+### 🌐 3D Contribution Graph
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SujalRamnani/SujalRamnani/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph"/>
+</div>
+
+> ⚙️ *This one needs the `yoshi389111/github-profile-3d-contrib` Action — same deal, I can generate that workflow too.*
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4"/>
 
 ## 🏆 Achievements & Milestones
 
@@ -179,11 +186,16 @@ me.say_hi()
 
 <div align="center">
 
-## 🤝 Let's Connect & Build Together!
+## 🤝 Let's Build Something Legendary
 
 <a href="https://linkedin.com/in/sujal-ramnani" target="_blank"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sujalramnani0@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/SujalRamnani" target="_blank"><img src="https://img.shields.io/badge/Explore%20My%20Repos-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:2E9EF7&height=100&section=footer" width="100%"/>
+<br/><br/>
+
+<i>"Code is the closest thing to magic we have — I just try not to break the spell."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:2C5364,100:0F2027&height=180&section=footer" width="100%"/>
 
 </div>
