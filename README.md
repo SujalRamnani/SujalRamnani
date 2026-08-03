@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:7B2FF7&height=250&section=header&text=SUJAL%20RAMNANI&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:7B2FF7&height=250&section=header&text=SUJAL%20RAMNANI&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=18"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:6DD5FA,100:7B2FF7&height=250&section=header&text=SUJAL%20RAMNANI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:7B2FF7&height=250&section=header&text=SUJAL%20RAMNANI&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
+</picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Products+From+Scratch+%F0%9F%A4%96;Full-Stack+MERN+Developer+%7C+ML+Engineer;500%2B+DSA+Problems+%7C+Contest+Ranked+%F0%9F%8F%86;Currently+Shipping%3A+InterviewIQ.AI+%F0%9F%9A%80;Turning+Coffee+Into+Code+%E2%98%95%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG"/>
 
@@ -137,29 +141,53 @@ Cloud Deployment          ███████████░░░░░░░
 ## 📊 The Numbers Behind the Code
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SujalRamnani&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalRamnani&layout=compact&theme=radical&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SujalRamnani&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SujalRamnani&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SujalRamnani&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalRamnani&layout=compact&theme=radical&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalRamnani&layout=compact&theme=default&hide_border=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujalRamnani&layout=compact&theme=radical&hide_border=true"/>
+</picture>
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SujalRamnani&theme=radical&hide_border=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SujalRamnani&theme=radical&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=SujalRamnani&theme=default&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujalRamnani&theme=radical&hide_border=true"/>
+</picture>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SujalRamnani&theme=react-dark&hide_border=true&area=true"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SujalRamnani&theme=react-dark&hide_border=true&area=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SujalRamnani&theme=minimal&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SujalRamnani&theme=react-dark&hide_border=true&area=true"/>
+</picture>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SujalRamnani&theme=radical&no-frame=true&row=1&column=6"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=SujalRamnani&theme=radical&no-frame=true&row=1&column=6"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=SujalRamnani&theme=flat&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SujalRamnani&theme=radical&no-frame=true&row=1&column=6"/>
+</picture>
 </div>
 
 ### 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SujalRamnani/SujalRamnani/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SujalRamnani/SujalRamnani/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/SujalRamnani/SujalRamnani/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</picture>
 </div>
 
-> ⚙️ *To activate the snake animation on your own profile, add the `platane/snk` GitHub Action to this repo — say the word and I'll generate the workflow file for you.*
+> ⚙️ *This is now wired to the `snake.yml` workflow below — once it runs once, this auto-updates every 6 hours and matches your GitHub theme.*
 
 ### 🌐 3D Contribution Graph
 
@@ -199,3 +227,63 @@ Cloud Deployment          ███████████░░░░░░░
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,50:2C5364,100:0F2027&height=180&section=footer" width="100%"/>
 
 </div>
+
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"    # runs every 6 hours
+  workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main                 # regenerates whenever you push to main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate the snake SVGs
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push generated files to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"    # runs every 6 hours
+  workflow_dispatch: {}       # lets you trigger it manually from the Actions tab
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate the 3D contribution graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Commit and push the generated SVGs
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -f profile-3d-contrib/*.svg
+          git commit -m "Update 3D contribution graph" || echo "No changes to commit"
+          git push
