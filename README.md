@@ -1,10 +1,6 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:7B2FF7&height=250&section=header&text=SUJAL%20RAMNANI&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=18"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,50:6DD5FA,100:7B2FF7&height=250&section=header&text=SUJAL%20RAMNANI&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=18"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:7B2FF7&height=250&section=header&text=SUJAL%20RAMNANI&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Full-Stack%20Developer%20%E2%80%A2%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:7B2FF7&height=250&section=header&text=SUJAL%20RAMNANI&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Problem%20Solver&descAlignY=55&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2200&pause=700&color=A78BFA&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Products+From+Scratch+%F0%9F%A4%96;Full-Stack+MERN+Developer+%7C+ML+Engineer;500%2B+DSA+Problems+%7C+Contest+Ranked+%F0%9F%8F%86;Currently+Shipping%3A+InterviewIQ.AI+%F0%9F%9A%80;Turning+Coffee+Into+Code+%E2%98%95%EF%B8%8F%F0%9F%92%BB" alt="Typing SVG"/>
 
